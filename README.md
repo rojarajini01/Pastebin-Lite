@@ -78,3 +78,4 @@ pastebin/
 - No authentication or rate limiting
 - Files stored locally (not suitable for production without modifications)
 - Consider adding HTTPS or use behind proxy, rate limiting, and proper security headers for production use
+
