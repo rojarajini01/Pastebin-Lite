@@ -1,0 +1,16 @@
+{
+  "name": "local_pastebin",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "author": "Phi Truong <rojarajini54@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
